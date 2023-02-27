@@ -1,0 +1,33 @@
+.header-container {
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    color: aliceblue;
+    padding: 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.header-dacaration {
+    font-size: 70px;
+    font-weight: 900;
+}
+
+.font-sizing {
+    font-size: 20px;
+}
+
+.btn-container {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(rgb(243, 45, 78), red);
+    border-radius: 5px;
+    color: white;
+    transition: .5s;
+}
+
+.btn-container:hover {
+    box-shadow: 5px 8px 20px orange;
+    color: aquamarine;
+    font-weight: 900;
+}
