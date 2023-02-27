@@ -146,3 +146,10 @@
     padding: 1%;
 
 }
+
+.footer-container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.938);
+    color: orangered;
+    padding: 5%
+}
