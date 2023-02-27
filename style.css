@@ -9,7 +9,7 @@
 }
 
 .header-dacaration {
-    font-size: 70px;
+    font-size: 60px;
     font-weight: 900;
 }
 
@@ -48,16 +48,16 @@
 }
 
 .donation-mony-container {
-    border: 1px solid black;
+
     padding: 3%;
     background-color: rgba(255, 0, 0, 0.178);
     transition: .7s;
 }
 
 .donation-mony-container:hover {
-    border: 2px solid rgba(0, 0, 0, 0.596);
+    border: 2px solid rgba(214, 11, 11, 0.726);
 
-    background-color: rgba(255, 0, 0, 0.562);
+    background-color: rgba(255, 0, 0, 0.39);
     margin-top: -10px;
     box-shadow: 10px 20px 30px gray;
 }
@@ -78,4 +78,57 @@
 
 .btn2 {
     border: 0px;
+}
+
+.donate-plan-container {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3%
+}
+
+.donate-plan-sub-c {
+    text-align: left;
+    width: 25%;
+    padding: 2%;
+
+}
+
+.container-color1 {
+    background-color: rgba(0, 255, 255, 0.267);
+}
+
+.container-color2 {
+    background-color: rgba(255, 196, 0, 0.274);
+}
+
+.container-color3 {
+    background-color: rgba(0, 255, 0, 0.288);
+}
+
+.contributer-container {
+    display: flex;
+    margin-top: 10%;
+    margin-right: 3%;
+    margin-left: 3%;
+
+
+}
+
+.contributer-container-sub {
+    width: 100%;
+
+
+
+
+}
+
+.contributer-container-sub1 {
+    padding: 3%;
+
+
+
+}
+
+.contributer-container-sub img {
+    width: 100%;
 }
