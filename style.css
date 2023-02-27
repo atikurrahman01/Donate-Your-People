@@ -39,6 +39,7 @@
 
 .header-special {
     font-size: 45px;
+    text-align: center;
 }
 
 .sub-donate-container2 {
@@ -131,4 +132,17 @@
 
 .contributer-container-sub img {
     width: 100%;
+}
+
+.email-container {
+    background-color: rgba(255, 228, 196, 0.589);
+    width: 60%;
+    justify-content: center;
+    margin: 5% 0% 15% 15%;
+    padding: 5%;
+}
+
+.email {
+    padding: 1%;
+
 }
